@@ -2,7 +2,7 @@ Rahul Bhatia
 
 Academics
 
-Student at DU
+Student at DTU
 
 Development
 
