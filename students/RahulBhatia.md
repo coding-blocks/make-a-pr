@@ -6,4 +6,4 @@ Student at DU
 
 Development
 
-Web and mobile - Android
+Android, Python and PHP developer
