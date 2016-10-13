@@ -1,9 +1,10 @@
-Rahul Bhatia
+#Rahul Bhatia
 
-Academics
+##Academics
 
 Student at DTU
 
-Development
+###Development
 
 Android, Python and PHP developer
+
