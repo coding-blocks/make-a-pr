@@ -1,6 +1,6 @@
 #Raj Maurya
 
-##Simply..! a computer science enthusiast...!
+##Simply..! A Computer Science and FOSS enthusiast...!
 
  - GitHub: @raj-maurya
  - Email: rajkmaurya111@gmail.com
