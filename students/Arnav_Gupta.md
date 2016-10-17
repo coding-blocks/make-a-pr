@@ -1,4 +1,4 @@
-# Arnav Gupta
+# Harsh agrawal
 
 ### Academics
 
