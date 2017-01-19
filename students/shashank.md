@@ -4,6 +4,6 @@
 
 #####i can program in
 
--android
--java
--python+django
+- android
+- java
+- python+django
