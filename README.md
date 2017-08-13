@@ -7,6 +7,9 @@
 - Add your profile page
 - Commit and push
 - Create a PR
+- Star this repository
+- Wait for PR to merge
+- Celebrate ! 
 
 
 Read about markdown syntax here
