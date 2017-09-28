@@ -1,3 +1,3 @@
-#Gourish Vashisht
-##Computer Science Learner
-###Guru Nanak Dev University,Amritsar
+# Gourish Vashisht
+## Computer Science Learner
+### Guru Nanak Dev University,Amritsar
