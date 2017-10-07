@@ -1,7 +1,7 @@
-#Riya Pannu
+# Riya Pannu
 
-##Academics
+## Academics
 
 IT Engineer, NSIT 2020
 
-###Web Developer
+### Web Developer
