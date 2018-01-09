@@ -1,0 +1,16 @@
+# Rishabh Gupta
+
+### Academics
+
+Doing undergrad from IIT Bhubaneswar computer science
+
+### Development
+
+Budding competitve coder and novice Web developer
+
+
+### Projects
+
+- ChatBox node.js socket
+- Roll the ball unity game
+- typewriter using java
