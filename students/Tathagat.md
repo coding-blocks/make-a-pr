@@ -1,17 +1,18 @@
 # My Profile
-##Name
+
+## Name
 Tathagat Thapliyal
 
-###College
+### College
 Thapar University
 
-####Branch
+#### Branch
 Computer Science Engineering
 
-#####Year 
+##### Year 
 3rd 
 
-######Skills
+###### Skills
 Java , DSA , iOS Dev......
 
 [LinkedIn] (https://www.linkedin.com/in/tathagat-thapliyal/)
