@@ -1,9 +1,9 @@
-#Neil Chauhan#
+# Neil Chauhan
 
-##Academics##
+## Academics
 
 Undergraduate at JAMIA HAMDARD
 
-##Development##
+## Development
 
 Web Developer
