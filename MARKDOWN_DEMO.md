@@ -1,17 +1,9 @@
-# Heading 1
+# Robin Singh
 
-## Heading 2
+## Undergrad from LNMIIT
 
-### Heading 3
+### Android App Developer
 
-###### Heading 6
+[Follow link here](https://rob729.github.io/)
 
-
-[Follow link here](http://your.link/here)
-
-![My Image Name](http://link/to/image.jpg)  ##hi 
-
-_Italic text like this_
-
-**Bold text like this**
 
