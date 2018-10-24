@@ -3,5 +3,5 @@
 
 ### Academics
 
-Undergrad at Jamia Millia Islamia 
+ECE Undergrad at Jamia Millia Islamia 
 
