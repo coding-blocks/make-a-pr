@@ -1,9 +1,8 @@
-# NIKHIL KUMAR
+##### NIKHIL KUMAR
+###### Beginning something GITTY
+[Follow link here](http://your.link/here)
 
-### ACADEMICS
+![My Image Name](http://link/to/image.jpg)  ##hi 
 
-Undergrad from NSUT, Delhi
 
-### Development
-
-Web Developer
+**Halp Me!**
