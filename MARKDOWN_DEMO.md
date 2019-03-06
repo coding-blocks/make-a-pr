@@ -6,6 +6,8 @@
 
 ###### Heading 6
 
+<!-- Added this line while learning git from the video tutorial. -->
+
 
 [Follow link here](http://your.link/here)
 
