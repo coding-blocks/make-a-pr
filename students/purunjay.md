@@ -1,0 +1,9 @@
+# PURUNJAY BHAL
+
+### ACADEMICS
+
+CSE Undergraduate from MANIT(MAULANA AZAD NATIONAL INSTITUTE OF TECHNOLOGY),BHOPAL
+
+### Development
+
+Web Development
