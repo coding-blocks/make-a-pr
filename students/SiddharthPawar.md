@@ -3,6 +3,6 @@
 ## Academics
 Maharaja Agrasen Institute of Technology, CSE II Year
 
-#Development
+# Development
 Web Development
 
