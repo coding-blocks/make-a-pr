@@ -1,4 +1,4 @@
-# A Repository for people to make PRs to.
+# A Repository for people to make PRs to
 
 ## Instructions
 
