@@ -1,12 +1,12 @@
-# Anant Singh
+# PRANAY RAWAT
 
 ### Academics
 
-Undergrad at JSSATE, Noida
+Delhi Technological University
 
 ### Development
 
-Android app developer & IOT enthusiast
+computer engineering
 
 
 ### Projects
