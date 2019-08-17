@@ -1,12 +1,12 @@
-#Name
-###Rajnish Tiwari
+# Name
+### Rajnish Tiwari
 
-#Discipline 
-###B.Tech.
+# Discipline 
+### B.Tech.
 
 
-#College
-###USICT
+# College
+### USICT
 
-#Course done from CB
-###Web Dev
+# Course done from CB
+### Web Dev
