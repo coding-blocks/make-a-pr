@@ -1,3 +1,3 @@
-####Simranjeet Singh
+Simranjeet Singh
 
 **MAIT**
