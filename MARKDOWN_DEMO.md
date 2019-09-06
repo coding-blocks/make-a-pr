@@ -9,7 +9,7 @@
 
 [Follow link here](http://your.link/here)
 
-![My Image Name](http://link/to/image.jpg)  ##hi 
+![My Image Name](http://www.pngnames.com/files/1/Sahil-Decorative-Name-PNG.png)  ##hi 
 
 _Italic text like this_
 
