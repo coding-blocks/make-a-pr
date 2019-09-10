@@ -3,10 +3,11 @@
 ***
 <h3 align="center"> Who Am I ??</h3
 
-    Student pursuing B.Tech in Information Technology from 
+ Student pursuing B.Tech in Information Technology from 
     University School of Information , Communication and Technology (GGSIPU) 
     
-    Competetive Programmer || Python Developer || ML & AI enthusiast 
+    
+    Competetive Programmer || Python Developer || ML & AI enthusiast || Ex-Cb Student 
     
 <h3 align="center"> Can Program in : </h3>
 
