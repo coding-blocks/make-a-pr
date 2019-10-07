@@ -6,6 +6,6 @@ Undergrad from AOT, West Bengal
 
 ### Development
 
-Web Developer
-Internet of Things
+Web Developer, 
+Internet of Things, 
 Cloud Compute Development
