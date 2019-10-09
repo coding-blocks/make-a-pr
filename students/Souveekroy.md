@@ -4,7 +4,7 @@
 
 ### Engineering Undergraduate
 
-###### Enginner at design,Coder by heart
+###### Engineer at design,Coder by heart
 
 
 [Follow link here](https://www.linkedin.com/in/souveek-roy-9a07a4147/)
