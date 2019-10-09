@@ -1,0 +1,34 @@
+package lecture14_july15;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class seive_of_eratosthenes {
+	static Scanner scn = new Scanner(System.in);
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int n = scn.nextInt();
+		SOE(n);
+
+	}
+
+	public static void SOE(int n) {
+		boolean[] primes = new boolean[n + 1];
+		Arrays.fill(primes, true);
+		primes[0] = primes[1] = false;
+		for (int t = 2; t * t <= n; t++) {
+			if (primes[t] == false) {
+				continue;
+			}
+			for (int m = 2; t * m <= n; m++) { //t-> table
+				primes[t * m] = false;         //m->multiplier
+			}
+		}
+		for (int i = 0; i < primes.length; i++) {
+			if (primes[i])
+				System.out.println(i);
+		}
+	}
+
+}
