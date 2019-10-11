@@ -1,17 +1,16 @@
-# Heading 1
+# `#` Heading 1 
 
-## Heading 2
+## `##` Heading 2
 
-### Heading 3
+### `###` Heading 3
 
-###### Heading 6
+###### `######` Heading 6
 
+\[`Follow link text here`](`http://enteryour.link/here`) ---> [Follow link here](http://enteryour.link/here)
 
-[Follow link here](http://your.link/here)
+\!\[`My Image Name`](`http://link/to/image.jpg`) --> ![My Image Name](http://link/to/image.jpg) 
 
-![My Image Name](http://link/to/image.jpg)  ##hi 
+_ _Italic text like this_ _
 
-_Italic text like this_
-
-**Bold text like this**
+** **Bold text like this**\**
 
