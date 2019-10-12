@@ -1,14 +1,13 @@
-﻿# **Shashi Raj**
----------------------
-### Academics
+# **Shashi Raj**
+### **Academics**
 > B.Tech in Information Technology From Haldia Institute of Technology
 
-### Programming Language
+### **Programming Languages**
 - Java
 - C
 - C++
 
-### **Development**
+### **Developments**
 - Web Developments & Competitive Coding
 
 ### **Projects**
