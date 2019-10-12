@@ -1,2 +1,0 @@
-Ishita jain
-backend developer
