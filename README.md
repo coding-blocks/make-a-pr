@@ -1,4 +1,4 @@
-# A Repository for people to make PRs to.
+# A Repository for people to make PRs too.
 
 ## Instructions
 
@@ -9,9 +9,9 @@
 - Create a PR
 - Star this repository
 - Wait for PR to merge
-- Celebrate ! 
+- Celebrate! 
 
 
 Read about markdown syntax here
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[Markdoem](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  
