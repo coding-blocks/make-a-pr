@@ -1,8 +1,7 @@
 # Sanjay Soni
 Flutter | Android | React.js | Alexa Skill
-<table>
- <tr border="none"><td><img src=""></td></tr>
-</table>
+
+![](https://github.com/imSanjaySoni/BMI-Calculator-with-flutter/blob/master/github.jpg)
 
 ### Academics
 
@@ -15,4 +14,8 @@ Android, iOS, Web and Voice App
 
 
 ### Projects
-1. BMI Calcularor with flutter("github.com/imsanjaysoni")
+1.[BMI Calcularor with flutter](https://github.com/imSanjaySoni/BMI-Calculator-with-flutter)
+
+2.[News app with flutter](https://github.com/imSanjaySoni/News-app-with-flutter)
+
+3.[Live Weather app with JS](https://github.com/imSanjaySoni/Weather-App-with-JS)
