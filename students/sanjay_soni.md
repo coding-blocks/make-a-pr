@@ -4,11 +4,11 @@ Flutter | Android | React.js | Alexa Skill
 ![](https://github.com/imSanjaySoni/BMI-Calculator-with-flutter/blob/master/github.jpg)
 
 ### Follow
-[facebook](fb.com/imsanjaysoni) 
- 
-[LinkedIn](linkedin.com/in/imsanjaysoni)
+[facebook](https://fb.com/imsanjaysoni) 
 
-[twitter](twitter.com/imsanjaysoni)  
+[LinkedIn](https://linkedin.com/in/imsanjaysoni)
+
+[twitter](https://twitter.com/imsanjaysoni)  
 
 ### Academics
 
