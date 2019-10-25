@@ -14,3 +14,5 @@ Kush Shah
 ```
 Nocturnal 
 ```
+## When I am training my Deep Neural Network models:
+[Mr Bean](https://tenor.com/view/mr-bean-checking-time-waiting-gif-11570520)
