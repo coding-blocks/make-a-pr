@@ -9,7 +9,7 @@
 - Create a PR
 - Star this repository
 - Wait for PR to merge
-- So finaaly you have learnt to make a PR
+- So finally you have learnt to make a PR
 - Now Celebrate ! 
 
 
