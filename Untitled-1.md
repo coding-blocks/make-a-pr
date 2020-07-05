@@ -1,2 +1,0 @@
-### Anuj Arora
-### MAIT
