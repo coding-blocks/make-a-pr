@@ -1,0 +1,187 @@
+#include <iostream>
+using namespace std;
+
+class node{
+    public:
+    int data;
+    node *next;
+ node(int d){
+     data=d;
+     next= NULL;
+ }
+};
+
+/*class Linkedlist{
+    node *head;
+    node *tail;
+
+    public:
+    Linkedlist(){
+        head=NULL;
+        tail=NULL;
+    }
+
+    void insert(){
+
+    }
+}; */
+
+void inserth(node *&head,int data)
+{
+    node*n= new node(data);
+    n->next=head;
+    head=n;
+}
+
+void print(node *head){
+    for(node *temp=head;temp!=NULL;temp=temp->next)
+    cout<<temp->data<<"-->";
+}
+int length(node*head){
+    int len=0;
+    while(head!=NULL){
+        head=head->next;
+        len++;
+    }
+    return len;
+}
+void insertt(node*&head,int data){
+    if(head==NULL){
+        head= new node(data);
+        return;
+    }
+    node*tail=head;
+    while(tail->next!=NULL){
+        tail=tail->next;
+    }
+    tail->next=new node(data);
+}
+void insertm(node*&head,int data,int p){
+    if(head==NULL||p==0){
+        inserth(head,data);
+    }
+
+    else if(p>length(head)){
+       insertt(head,data);
+    }
+    else{
+        //insert in middle
+        //take p-1 jumps
+        int jump=0;
+        node*temp=head;
+        while(jump<p-1){
+            temp=temp->next;
+            jump+=1;
+        }
+        //temp at right pos
+
+        node*n=new node(data);
+        n->next=temp->next;
+        temp->next=n;
+    }
+}
+void delh(node*&head){
+    if(head==NULL){
+        return;
+    }
+    node*temp=head;
+    head=head->next;
+    delete temp;
+    return;
+}
+void delt(node*&head){
+    node*prev=NULL,*temp=head;
+    while(temp->next!=NULL){
+        prev=temp;
+        temp=temp->next;
+    }
+    delete temp;
+    prev->next=NULL;
+    return;
+}
+
+bool searchi(node*head,int key){
+    while(head!=NULL){
+        if(head->data==key){return true;}
+        head=head->next;
+    }
+return false;
+}
+
+
+
+bool searchr(node*head,int key){
+    if(head==NULL){
+        return false;
+    }
+    if(head->data==key){
+        return true;
+    }
+    else{
+        return searchr(head->next,key);
+    }
+}
+void delm(node*&head,int p){
+    if(head==NULL||p==0){return;}
+
+    else{
+        node*prev=NULL,*temp=head;
+        int jump=1;
+        while(jump<=p-1){
+            prev=temp;
+            temp=temp->next;
+            jump+=1;
+        }
+        prev->next=temp->next;
+        delete temp;
+        return;
+    }
+}
+void buildl(node*&head){
+    int data;
+    cin>>data;
+    while(data!=-1){
+        insertt(head,data);
+        cin>>data;
+    }
+}
+void reverse(node*&head){
+    node*c=head;
+    node*p=NULL;
+    node*n;
+    while(c!=NULL){
+       //save next node
+        n=c->next;
+//make the curr point to prev
+c->next=p;
+//update prev and curr
+p=c;
+c=n;
+    }
+    head=p;
+}
+
+void reverser{
+
+    }
+
+int main() {
+node *head=NULL;
+inserth(head,5);
+inserth(head,4);
+inserth(head,3);
+insertt(head,7);
+insertm(head,9,3);
+print(head);
+cout<<endl;
+reverse(head);
+print(head);
+/*delm(head,3);
+if(searchr(head,4)) { cout<<"ele";}
+else{cout<<"no ele";}
+print(head);
+if(searchi(head,14)) { cout<<"ele";}
+else{cout<<"no ele";}
+buildl(head);
+print(head);*/
+return 0;}
