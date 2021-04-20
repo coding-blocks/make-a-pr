@@ -2,7 +2,7 @@
 
 ### ACADEMICS
 
-Undergrad from NSIT, Delhi
+Undergraduate from NSIT, Delhi
 
 ### Development
 
