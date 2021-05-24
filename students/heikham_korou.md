@@ -1,0 +1,18 @@
+
+
+# HEIKHAM KOROUNGANBA SINGH 
+
+### Academics
+
+STUDIES AT IIT ISM DHANBAD
+
+### Development
+
+ Web developer (NODE JS)
+
+
+### Projects
+
+- SOCIAL MEDIA APP
+- REAL TIME CHAT APP
+- TODOLISTS
