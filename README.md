@@ -1,4 +1,4 @@
-# A Repository for people to make PRs to.
+# A Repository for people to make PRs to
 
 > DISCLAIMER: This repository is there to teach people how to make their first PR and is for academic purposes. This is not a valid repository for hacktoberfest participation. Please do not make PRs here for the purpose of hacktoberfest.
 
