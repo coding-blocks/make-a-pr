@@ -11,7 +11,8 @@
 - Create a PR
 - Star this repository
 - Wait for PR to merge
-- Celebrate ! 
+- So finally you have learnt to make a PR
+- Now Celebrate ! 
 
 
 Read about markdown syntax here
