@@ -1,8 +1,10 @@
 # Name of Students
-Andika
+Andika D. R.
 
 ## Programming Language
 Haskell
+Agda
+Coq
 Go
 Python
 C++
