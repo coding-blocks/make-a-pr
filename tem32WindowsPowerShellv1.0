@@ -1,0 +1,291 @@
+[33mcommit cf3feff3c96f6b3dfdd5b96f5a2d35e48e117683[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Arnav Gupta <dev@championswimmer.in>
+Date:   Mon Oct 5 22:21:22 2020 +0530
+
+    Update README.md
+
+[33mcommit 9e22bd8f68ca5872fdc7ca354cb374803416a9a1[m
+Merge: 12a006b e7ef0eb
+Author: Prateek Narang <prateeknarang111@gmail.com>
+Date:   Mon Aug 19 15:17:03 2019 +0530
+
+    Merge pull request #354 from anujarora0502/master
+    
+    added my file
+
+[33mcommit 12a006b018d70eaa2c254637f4568c74c0e878ad[m
+Merge: ca94f60 483217c
+Author: Prateek Narang <prateeknarang111@gmail.com>
+Date:   Mon Aug 19 15:06:05 2019 +0530
+
+    Merge pull request #351 from Tarang-singhal/master
+    
+    added my file
+
+[33mcommit 483217cc5dfcfb9206931290849cef4c50013506[m
+Author: student <tarangsinghal2@gmail.com>
+Date:   Mon Aug 19 05:33:23 2019 -0700
+
+    added my file
+
+[33mcommit ca94f6047613585a44144039891aaf0ce78ffed3[m
+Merge: 5381047 ae26d61
+Author: Prateek Narang <prateeknarang111@gmail.com>
+Date:   Mon Aug 19 15:05:19 2019 +0530
+
+    Merge pull request #349 from prateek27/master
+    
+    added my file
+
+[33mcommit e7ef0eb0ecb71c6ac0affd71556c7f693e348dc9[m
+Author: anujarora0502 <anujarora0502@gmail.com>
+Date:   Mon Aug 19 15:02:26 2019 +0530
+
+    added my file
+
+[33mcommit ae26d61da039557c64a5a729862e9f33a7479f84[m
+Author: prateek27 <prateeknarang111@gmail.com>
+Date:   Mon Aug 19 15:02:03 2019 +0530
+
+    added my file
+
+[33mcommit 5381047e531b4ebeea10f98f5783f7df74d9bf49[m
+Merge: 05197ed 3a066b0
+Author: Prateek Narang <prateeknarang111@gmail.com>
+Date:   Mon Aug 19 10:50:22 2019 +0530
+
+    Merge pull request #348 from prateek27/master
+    
+    added prateek.md in students folder
+
+[33mcommit 3a066b0f4b353b3270431f653fc1d8211a1823ed[m
+Author: prateek27 <prateeknarang111@gmail.com>
+Date:   Mon Aug 19 10:47:10 2019 +0530
+
+    my prateek.md
+
+[33mcommit 05197ed80423290c30b7be71e40f4b291a30ae77[m
+Merge: 7e136d6 c52e35c
+Author: Arnav Gupta <dev@championswimmer.in>
+Date:   Fri Feb 8 13:49:24 2019 +0530
+
+    Merge pull request #280 from rishabhratti/master
+    
+    cleanup
+
+[33mcommit c52e35c0561a9dc8c29926ce47f4cc942470db2b[m
+Author: rishabh <git clone https://rattirishabh@bitbucket.org/rattirishabh/era-sdk-rishabh.git>
+Date:   Fri Feb 8 12:08:03 2019 +0530
+
+    cleanup
+
+[33mcommit 7e136d634f69714377916816fc07bda1318913d9[m
+Merge: 1345abc 741a11f
+Author: Arnav Gupta <dev@championswimmer.in>
+Date:   Thu Jan 31 22:43:53 2019 +0530
+
+    Merge pull request #276 from saurabhbazzad/master
+    
+    #275 Saurabh Singh
+
+[33mcommit 741a11ff23bc31b76908e602998b700ba957d046[m
+Author: Saurabh <saurabhbazzad@gmail.com>
+Date:   Sun Jan 27 23:19:17 2019 +0530
+
+    made a pr
+
+[33mcommit 1345abccd1c67232613b66c338df92dc6685090f[m
+Merge: b1a711d ce55c66
+Author: Arnav Gupta <dev@championswimmer.in>
+Date:   Sun Jan 6 13:28:26 2019 +0530
+
+    added neeraj.md (#274)
+
+[33mcommit b1a711d08cd8f14c56e807630c91d051645125de[m
+Author: Varun Bansal <varun330@gmail.com>
+Date:   Sun Jan 6 13:28:19 2019 +0530
+
+    Added Varun Bansal's data (#275)
+
+[33mcommit ce55c6672b32edafffc74be0d8e01351ad2dfbad[m
+Author: neeraj <neeeraj2599@gmail.com>
+Date:   Sat Jan 5 20:21:30 2019 -0800
+
+    added neeraj.md
+
+[33mcommit df04bc5fe28d0c6e9651c6927ba1de0799b1ffff[m
+Author: shabnamkhatun765 <40318171+shabnamkhatun765@users.noreply.github.com>
+Date:   Fri Jun 29 01:44:41 2018 +0530
+
+    accept pr (#224)
+    
+    * added by shabnam
+    
+    * added by shabnam
+
+[33mcommit 13d5887fa8fb0daf2e3fe4ae3b366ffa1f05fca7[m
+Author: Robinster0071 <40490077+Robinster0071@users.noreply.github.com>
+Date:   Fri Jun 29 01:44:28 2018 +0530
+
+    added pr for Rakshit Kumar (#225)
+
+[33mcommit be290bf3a872ffdd19775e98ff5d8d432616ee8a[m
+Author: Nishita Aggarwal <naggarwal97@gmail.com>
+Date:   Fri Dec 22 22:33:56 2017 +0530
+
+    added Nishita.md (#175)
+
+[33mcommit a91461d7e73915a4808a94288d7e6da31d9f7c07[m
+Author: twinkletyagi <twinkletyagi94@gmail.com>
+Date:   Fri Dec 22 22:33:41 2017 +0530
+
+    Create Twinkle Tyagi (#176)
+
+[33mcommit 61de1e5d967595a7523062962fe63806803c95b7[m
+Author: Saurabh Daalia <saurabhdaalia98@gmail.com>
+Date:   Thu Oct 5 22:08:16 2017 +0530
+
+    Student Added Student Saurabh Daalia (#125)
+
+[33mcommit 6363c701dbf145dea0d9f298d5d28c1fb0467b00[m
+Author: salman18123 <salmanvit12345@gmail.com>
+Date:   Thu Oct 5 09:38:02 2017 -0700
+
+    adding my data (#135)
+
+[33mcommit 7b160c12d85d079aa99f8304176b884bd3a2b1b2[m
+Author: himanish-star <30361728+himanish-star@users.noreply.github.com>
+Date:   Thu Oct 5 22:07:48 2017 +0530
+
+    himanish added details (#144)
+
+[33mcommit fdd657ed16140361b0a5f0178fdcb0654daa8aa6[m
+Author: Pranav Gupta <pranavgupta998@gmail.com>
+Date:   Thu Oct 5 22:07:36 2017 +0530
+
+    new commit (#145)
+
+[33mcommit 4263532b31d454a42a9417909f155af853d431c9[m
+Author: Shyam Kotecha <kotecha.shyam49@gmail.com>
+Date:   Thu Oct 5 22:07:21 2017 +0530
+
+    added shyam to students (#147)
+
+[33mcommit f94eb1745f022104cc47843b390eef4ab3cede22[m
+Author: Aashish Agarwal <aashish27nov@gmail.com>
+Date:   Thu Oct 5 22:07:11 2017 +0530
+
+    aashish (#148)
+
+[33mcommit 825ad1fc5d71f86904403704d13024534c821d6c[m
+Author: Shivang Agarwal <shivangagg98@gmail.com>
+Date:   Thu Oct 5 22:07:00 2017 +0530
+
+    Added my profile (#149)
+
+[33mcommit e41bf7c85a09ef6c084fb97a5786259e704f2d3f[m
+Author: Hash Root <30665546+HashRoot97@users.noreply.github.com>
+Date:   Thu Sep 28 20:54:35 2017 +0530
+
+    hashroot (#108)
+    
+    * hashroot
+    
+    * Update hashroot.txt
+
+[33mcommit ce38eb4753e5fd6fdb7e4b9530c87161c7547214[m
+Author: Arnav Gupta <dev@championswimmer.in>
+Date:   Thu Sep 28 20:46:55 2017 +0530
+
+    cleanup the repository (#106)
+
+[33mcommit 568db63d4bb1a94302fa855b8ee38d00631d2cb6[m
+Author: Shivanshu Chaudhary <shivanshuchaudhary97@gmail.com>
+Date:   Sun Aug 13 23:10:12 2017 +0530
+
+    Shivanshu Chaudhary Commited (#70)
+
+[33mcommit dccd52bc828053ceac38ba7c21adacf2c038933a[m
+Author: MANISH YADAV <manishyadav.nd@gmail.com>
+Date:   Sun Aug 13 23:10:04 2017 +0530
+
+    manishyadavv.md (#71)
+
+[33mcommit 0877ad15557ab4b03b3afb2cb67a49908a992f97[m
+Author: LALIT ARORA <lalitarora1997@gmail.com>
+Date:   Sun Aug 13 23:09:55 2017 +0530
+
+    initial commit (#72)
+
+[33mcommit 30ec2763f1e168cc3e4d3daba1a41359791490d6[m
+Author: Anshul Mittal <anshulmittal0409@gmail.com>
+Date:   Sun Aug 13 23:09:36 2017 +0530
+
+    Added a student md (#103)
+
+[33mcommit c500f182ea4517800347731fd51730ced79dfb97[m
+Author: Ayushee Singh <ayushee.singh123@gmail.com>
+Date:   Sun Aug 13 23:09:17 2017 +0530
+
+    ayushees file (#78)
+
+[33mcommit ead14e00d1079ce7a7cab9f1e1b37bec49280fd3[m
+Author: Arnav Gupta <dev@championswimmer.in>
+Date:   Tue Jul 4 19:00:01 2017 +0530
+
+    add more markdown examples (#101)
+    
+    Signed-off-by: Arnav Gupta <arnav@codingblocks.com>
+
+[33mcommit 308fdc698d042fe56be291aa1b2e2df005d58df2[m
+Author: Ankush Garg <1998anky@gmail.com>
+Date:   Sun May 28 19:08:42 2017 +0530
+
+    My Profile (#90)
+
+[33mcommit ba53a0f3fdd41cac068a8a821a084de7b1f3104e[m
+Author: Shashank Sharma <shashanksharma580s@gmail.com>
+Date:   Sun May 28 19:08:31 2017 +0530
+
+    my first pull request (#92)
+    
+    * Create shashank
+    
+    * Update and rename shashank to shashank.md
+    
+    * Update shashank.md
+    
+    * Update shashank.md
+    
+    * Update shashank.md
+    
+    * Update shashank.md
+
+[33mcommit 6c314233736eaec22a9d08c924ff967f0a0bae3b[m
+Merge: 1a9b9c6 f2dfa61
+Author: Arnav Gupta <dev@championswimmer.in>
+Date:   Thu Apr 13 04:02:04 2017 +0530
+
+    Merge pull request #86 from ishan-maheshwari/master
+    
+    Added my file
+
+[33mcommit 1a9b9c64c6b36c6e8f3683538b1c9daf5721fad5[m
+Merge: 500c000 4d616b7
+Author: Arnav Gupta <dev@championswimmer.in>
+Date:   Thu Apr 13 04:01:37 2017 +0530
+
+    Merge pull request #81 from akshitagupta7/master
+    
+    added akshita.md
+
+[33mcommit 500c0002cded9400d936c14906334ef99b8af057[m
+Merge: db551cd 37df9a3
+Author: Arnav Gupta <dev@championswimmer.in>
+Date:   Thu Apr 13 03:58:55 2017 +0530
+
+    Merge pull request #85 from aakash-sopho/master
+    
+    Create aakash.garg.md
+
+[33mcommit db551cdbf78
