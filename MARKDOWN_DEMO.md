@@ -15,4 +15,4 @@ _Italic text like this_
 
 **Bold text like this**
 
-![Hello Insta](instagram.com)
+[Hello Insta](https://www.instagram.com/)
