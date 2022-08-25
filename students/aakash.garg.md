@@ -1,4 +1,0 @@
-#Introduction
-
-**Aakash Garg**  
-*DTU*

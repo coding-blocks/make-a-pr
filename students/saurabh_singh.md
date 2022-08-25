@@ -1,2 +1,0 @@
-# Saurabh Singh
-## NSIT, Delhi
