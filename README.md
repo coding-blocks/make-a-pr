@@ -4,10 +4,10 @@
 
 ## Instructions
 
-- Fork this Repository
-- Clone it to your PC
-- Add your profile page
-- Commit and push
+- Fork this Repository --Done
+- Clone it to your PC --Done
+- Add your profile page --Done
+- Commit and push --Allow access
 - Create a PR
 - Star this repository
 - Wait for PR to merge
