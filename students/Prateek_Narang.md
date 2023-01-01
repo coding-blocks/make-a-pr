@@ -1,2 +1,0 @@
-### Prateek Narang
-### DTU
